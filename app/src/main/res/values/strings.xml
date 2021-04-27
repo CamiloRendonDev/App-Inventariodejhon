@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Inventario urrao</string>
+    <string name="descripcion">Descripcion</string>
+
+    <string name="JhonJhon">Restaurante de jhon</string>
+
+    <string name="Negocio1">Negocio 1</string>
+
+    <string name="Inventario">Inventario></string>
+
+    <string name="Negocio2">Negocio 2</string>
+
+
+</resources>
